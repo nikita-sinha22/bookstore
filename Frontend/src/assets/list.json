@@ -1,0 +1,74 @@
+[
+   {
+      "id":1,
+      "name":"Story Book",
+      "title":"Lorem, ipsum dolor sit amet",
+      "price":0,
+      "cateogry":"Free",
+      "image":"../../src/assets/images/cardbanner.png"
+   },
+   {
+      "id":2,
+      "name":"Comedy Book",
+      "title":"Lorem, ipsum dolor sit amet",
+      "price":20,
+      "cateogry":"Entertainment",
+      "image":"../../src/assets/images/cardbanner.png"
+   },
+   {
+      "id":3,
+      "name":"Story Book",
+      "title":"Lorem, ipsum dolor sit amet",
+      "price":0,
+      "cateogry":"Free",
+      "image":"../../src/assets/images/cardbanner.png"
+   },
+   {
+      "id":4,
+      "name":"Story Book",
+      "title":"Lorem, ipsum dolor sit amet",
+      "price":0,
+      "cateogry":"Free",
+      "image":"../../src/assets/images/cardbanner.png"
+   },
+   {
+      "id":5,
+      "name":"Story Book",
+      "title":"Lorem, ipsum dolor sit amet",
+      "price":0,
+      "cateogry":"Free",
+      "image":"../../src/assets/images/cardbanner.png"
+   },
+   {
+      "id":6,
+      "name":"Story Book",
+      "title":"Lorem, ipsum dolor sit amet",
+      "price":0,
+      "cateogry":"Free",
+      "image":"../../src/assets/images/cardbanner.png"
+   },
+   {
+      "id":7,
+      "name":"Story Book",
+      "title":"Lorem, ipsum dolor sit amet",
+      "price":0,
+      "cateogry":"Free",
+      "image":"../../src/assets/images/cardbanner.png"
+   },
+   {
+      "id":8,
+      "name":"Sports Book",
+      "title":"Lorem, ipsum dolor sit amet",
+      "price":50,
+      "cateogry":"Sports",
+      "image":"../../src/assets/images/cardbanner.png"
+   },
+   {
+      "id":9,
+      "name":"Story Book",
+      "title":"Lorem, ipsum dolor sit amet",
+      "price":0,
+      "cateogry":"Free",
+      "image":"../../src/assets/images/cardbanner.png"
+   }
+]
